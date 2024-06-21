@@ -9,7 +9,7 @@ Im a Full Stack Developer
 "Hello, my name is İlker Şahin Koç. I was born in 2006, so I am 17 years old. I have been interested in coding since I was 10, and I have been developing myself in this field. I started coding with Python, but currently, I am mainly focusing on web development."
 
 *   🌍  I'm based in Turkiye, İstanbul
-*   ✉️  You can contact me at [ilkersahinkoc05@gmail.com](mailto:ilkersahinkoc05@gmail.com)
+*   ✉️  You can contact me at [ilkersahinkoc05@gmail.com](mailto:ilkersahinkoc0@gmail.com)
 *   🧠  I'm learning Panda, ToirScript<a href="https://www.github.com/ilkershin" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/ilkershin?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a><a href="https://www.twitter.com/ilkersahn" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/ilkersahn?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=1c1917"
